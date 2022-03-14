@@ -1,0 +1,14 @@
+{
+  "name": "nodejsapi",
+  "version": "1.0.0",
+  "description": "this is an api app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
